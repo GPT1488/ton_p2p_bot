@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ========== КОНСТАНТЫ ==========
-BOT_TOKEN = os.environ.get('BOT_TOKEN')  # Токен из переменных окружения Koyeb
+BOT_TOKEN = "8279909476:AAF4bRExh18Ve5pQ2F-wAHdBcQLfda-yNOU"  # Ваш токен
 
 # ========== ИНИЦИАЛИЗАЦИЯ КЛИЕНТОВ ==========
 try:
